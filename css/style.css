@@ -1,0 +1,62 @@
+body {
+    font-family: "Inter";
+    color: #FFF;
+    background: url("../assets/background.png");
+    background-size: cover;
+    background-position: center center;
+    padding: 100px;
+    height: 100vh;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    user-select: none;
+}
+
+.clock {
+    text-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    font-family: Inter;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top:60px;
+}
+
+.greetings{
+    font-size: 24px
+}
+
+.date{
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+#bookmarks{
+    margin-top: 60px;
+    width: 250px;
+}
+
+.bookmark{
+    padding: 6px 10px;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 4px;
+    text-decoration: none;
+}
+
+.bookmark:hover{
+    background: #658c8a80;
+}
+
+.bookmark img{
+    margin-right: 20px;
+    width: 20px;
+    height: 20px;
+}
+
+.bookmark span{
+    color: white;
+    
+}
