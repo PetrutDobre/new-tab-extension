@@ -13,27 +13,27 @@ const bookmarksLists = [
     {
         name: "YouTube",
         iconSrc: "./assets/youtube.png",
-        link: "https://www.google.ro",
+        link: "https://www.youtube.com/",
     },
     {
         name: "Udemy",
         iconSrc: "./assets/udemy.png",
-        link: "https://www.google.ro",
+        link: "https://www.udemy.com/",
     },
     {
         name: "ING",
         iconSrc: "./assets/ing.png",
-        link: "https://www.google.ro",
+        link: "https://ing.ro/",
     },
     {
         name: "Gymbeam",
         iconSrc: "./assets/gymbeam.png",
-        link: "https://www.google.ro",
+        link: "https://gymbeam.ro/",
     },
     {
         name: "Google Drive",
         iconSrc: "./assets/drive.png",
-        link: "https://www.google.ro",
+        link: "https://www.google.com/drive",
     },
     {
         name: "GitHub",
